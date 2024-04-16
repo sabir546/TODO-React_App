@@ -7,6 +7,9 @@ A minimalistic, customisable todo app.
 
 - Demo hosted on Netlify: [https://todo-react-app-umber-mu.vercel.app/](https://todo-react-app-umber-mu.vercel.app/)
 
+![screnShort](https://github.com/sabir546/TODO-React_App/blob/main/src/TODOAPP.png)
+
+
 ## Features
 
 - Tasks saved locally
