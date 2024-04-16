@@ -5,7 +5,7 @@ A minimalistic, customisable todo app.
 
 ## Demo
 
-- Demo hosted on Netlify: [https://todo-react-app-umber-mu.vercel.app/](https://todo-react-app-umber-mu.vercel.app/)
+- Demo hosted on Vercel: [https://todo-react-app-umber-mu.vercel.app/](https://todo-react-app-umber-mu.vercel.app/)
 
 ![screnShort](https://github.com/sabir546/TODO-React_App/blob/main/src/TODOAPP.png)
 
@@ -14,6 +14,7 @@ A minimalistic, customisable todo app.
 
 - Tasks saved locally
 - Edit task
+- Delete task
 - Notification Box
 - Task Status Changes to Completed
 - Tablet & mobile friendly
@@ -46,5 +47,5 @@ $ npm start
 ```
 
 ## Author
-- Github [@Sabir546](https://github.com/sabir546)
+- instagarm [@md_gulam_sabir](https://www.instagram.com/md_gulam_sabir/)
 - LinkedIn - [@Mdgulamsabir](https://www.linkedin.com/in/md-gulam-sabir-85766524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
