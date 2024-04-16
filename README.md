@@ -47,5 +47,5 @@ $ npm start
 ```
 
 ## Author
-- instagarm [@md_gulam_sabir](https://www.instagram.com/md_gulam_sabir/)
+- Instagram [@md_gulam_sabir](https://www.instagram.com/md_gulam_sabir/)
 - LinkedIn - [@Mdgulamsabir](https://www.linkedin.com/in/md-gulam-sabir-85766524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
